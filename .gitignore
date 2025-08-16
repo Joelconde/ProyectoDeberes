@@ -1,1 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Binarios o ejecutables
 minikube-linux-amd64
+
+# Archivos de entorno
+.env
+
